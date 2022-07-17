@@ -1,2 +1,2 @@
-# Portfolio_Projects
-Link to some of Machine Learning projects
+# Selected Projects and Outcomes
+## Predicting the Patient condition
